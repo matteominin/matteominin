@@ -32,11 +32,4 @@ multi-agent LLM system.
 | [**JetBrains Deep Research**](https://github.com/matteominin/JetBrains-deepResearch) | Autonomous deep-research agent in Java/Spring: plan → search → synthesize |
 | [**os161 Demand Paging**](https://github.com/matteominin/os161-paging) | On-demand virtual memory in C: page table, clock eviction, swap file |
 
-### 📊 GitHub
-
-<p>
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=matteominin&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs" alt="stats">
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=matteominin&layout=compact&hide_border=true&langs_count=6&hide=css,scss" alt="top langs">
-</p>
-
 <sub>📍 Turin, Italy</sub>
