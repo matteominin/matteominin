@@ -23,13 +23,4 @@ multi-agent LLM system.
 - 🔭 **Now:** demand paging in the os161 kernel (C) · reliability engineering for production LLM systems
 - 🌱 **Open source:** fixed a silent message-drop bug in Apache Camel's Kafka producer ([merged, PR #24467](https://github.com/apache/camel/pull/24467), ships in 4.22.0)
 
-### 📌 Featured
-
-| Project | What it is |
-|---|---|
-| [**CAPRA**](https://github.com/matteominin/CAPRA) | 6-agent LLM pipeline auditing software-architecture docs · peer-reviewed at CSEE&T 2026 |
-| [**Ariadne**](https://github.com/matteominin/ariadne-poc) | Observability &amp; time-travel debugger for multi-agent systems (trace · replay · replay-from-step) |
-| [**JetBrains Deep Research**](https://github.com/matteominin/JetBrains-deepResearch) | Autonomous deep-research agent in Java/Spring: plan → search → synthesize |
-| [**os161 Demand Paging**](https://github.com/matteominin/os161-paging) | On-demand virtual memory in C: page table, clock eviction, swap file |
-
 <sub>📍 Turin, Italy</sub>
