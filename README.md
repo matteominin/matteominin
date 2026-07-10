@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/matteo-minin-93a211378/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:minin.swe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://arxiv.org/abs/2606.18976"><img src="https://img.shields.io/badge/Paper-CSEE%26T_2026-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="Paper"></a>
-  <a href="https://github.com/apache/camel/pull/24467"><img src="https://img.shields.io/badge/Apache_Camel-PR%20%2324467%20merged-D22128?style=flat&logo=apache&logoColor=white" alt="Apache Camel contribution"></a>
+  <a href="https://github.com/apache/camel/pulls?q=is%3Apr+author%3Amatteominin+is%3Amerged"><img src="https://img.shields.io/badge/Apache_Camel-2%20PRs%20merged-D22128?style=flat&logo=apache&logoColor=white" alt="Apache Camel contributions"></a>
 </p>
 
 ---
@@ -21,6 +21,6 @@ turnaround from a full day to a **~70-second median**, and co-authored
 multi-agent LLM system.
 
 - 🔭 **Now:** demand paging in the os161 kernel (C) · reliability engineering for production LLM systems
-- 🌱 **Open source:** fixed a silent message-drop bug in Apache Camel's Kafka producer ([merged, PR #24467](https://github.com/apache/camel/pull/24467), ships in 4.22.0)
+- 🌱 **Open source:** [Apache Camel contributions](https://github.com/apache/camel/pulls?q=is%3Apr+author%3Amatteominin+is%3Amerged) — latest: fixed a concurrency bug in the OpenAI/MCP endpoint's tool-state reconnect, corrupting parallel exchanges under load ([merged, PR #24587](https://github.com/apache/camel/pull/24587)); earlier, a silent message-drop bug in the Kafka producer ([PR #24467](https://github.com/apache/camel/pull/24467), ships in 4.22.0)
 
 <sub>📍 Turin, Italy</sub>
