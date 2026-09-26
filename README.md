@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matteo-minin-93a211378/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:minin.swe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://arxiv.org/abs/2606.18976"><img src="https://img.shields.io/badge/Paper-CSEE%26T_2026-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="Paper"></a>
   <a href="https://github.com/apache/camel/pulls?q=is%3Apr+author%3Amatteominin+is%3Amerged"><img src="https://img.shields.io/badge/Apache_Camel-2%20PRs%20merged-D22128?style=flat&logo=apache&logoColor=white" alt="Apache Camel contributions"></a>
 </p>
